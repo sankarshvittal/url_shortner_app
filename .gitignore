@@ -1,0 +1,6 @@
+# Migrations folders
+**/migrations/**
+!**/migrations/__init__.py
+
+# Ignore venv
+/venv**

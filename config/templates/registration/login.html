@@ -1,0 +1,21 @@
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'css/login.css' %}">
+
+<div class="login">
+    <div class="form">
+        <h1><b>Url Shortner Application</b></h1>
+        <form method="post">
+          {% csrf_token %}
+          {{ form.as_p }}
+          <button type="submit">Log In</button>
+        </form>
+    </div>
+</div>
+
+<div class="footer">
+  <p class="footer-text-left">
+    <b>Designed by: </b>
+    <a href="https://www.linkedin.com/in/sankarsh/" class="menu">Sankarsh</a>
+  </p>
+</div>
