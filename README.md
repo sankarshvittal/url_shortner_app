@@ -1,6 +1,6 @@
 # URL SHORTNER APPLICATION
 
-A web app to shornten URL
+A web app to shorten URL
 
 ## STEPS FOR DEPLOYING (for development):
 
