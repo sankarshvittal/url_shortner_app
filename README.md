@@ -13,7 +13,7 @@ A web app to shorten URL
    b. python manage.py makemigrations
 5. Create super user:
    a. Run the command : python manage.py createsuperuser
-   b. You will be prompted to enter the user name , email and passwoed. Follow the instructions as described below:
+   b. You will be prompted to enter the user name , email and password. Follow the instructions as described below:
       - username : admin
       - email : ( leave it blank )
       - password : Enter your password of choice
