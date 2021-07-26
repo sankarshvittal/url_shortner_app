@@ -29,7 +29,7 @@ A web app to shorten URL
 1. Clone the latest project (master branch) from Github into your machine
 2. Install the latest version of docker on your machine
 3. Run docker-compose build and docker-compose up from inside the project folder
-4. Done, you can acccess the application through the link: http://host_name:8000/. Login using your credntials.
+4. Done, you can acccess the application through the link: http://host_name:8000/. Login using your credentials.
 ```
 
 ### PYTHON VERSION :
