@@ -1,6 +1,6 @@
 # URL SHORTNER APPLICATION
 
-A dashboard for visualizing personal management information
+A web app to shornten URL
 
 ## STEPS FOR DEPLOYING (for development):
 
