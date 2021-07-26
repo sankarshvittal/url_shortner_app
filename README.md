@@ -17,9 +17,10 @@ A dashboard for visualizing personal management information
       - username : admin
       - email : ( leave it blank )
       - password : Enter your password of choice
-6. Run the following cmd in your terminal to run the django application: python manage.py runserver
-7. Open the link  http://127.0.0.1:8000/  on your browser of choice and login using your credentials.
-8. Done, the application has been successfully deployed.
+6. Run unit tests: python manage.py test
+7. Run the following cmd in your terminal to run the django application: python manage.py runserver
+8. Open the link  http://127.0.0.1:8000/  on your browser of choice and login using your credentials.
+9. Done, the application has been successfully deployed.
 ```
 
 ## STEPS FOR DEPLOYING IN DOCKER (for production):
